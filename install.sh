@@ -29,7 +29,7 @@ set -e
 #############################################################################
 
 SCRIPT_VERSION="v0.9.0"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/kreosan1/pter-installer"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
@@ -70,10 +70,10 @@ done=false
 
 output "Pterodactyl installation script @ $SCRIPT_VERSION"
 output
-output "Copyright (C) 2018 - 2021, Vilhelm Prytz, <vilhelm@prytznet.se>"
-output "https://github.com/vilhelmprytz/pterodactyl-installer"
+output "Copyright (C) 2020 - 2022, Vilhelm Prytz, <fox20082122@gmail.com>"
 output
-output "Sponsoring/Donations: https://github.com/vilhelmprytz/pterodactyl-installer?sponsor=1"
+output "Made by DemoXACK"
+output
 output "This script is not associated with the official Pterodactyl Project."
 
 output
